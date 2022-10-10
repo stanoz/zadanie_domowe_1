@@ -1,1 +1,1 @@
-To jest drugi dodatek.
+To jest drugi dodatek. Zawiera on zmianê, która jest bardzo istotna.

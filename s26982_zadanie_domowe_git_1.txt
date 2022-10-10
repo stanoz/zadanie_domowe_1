@@ -1,0 +1,13 @@
+Zad1. GIT zosta³ skonfigurowany podczas instalacji poprzez instalator oraz komendy "git config --global user.name stanoz" i "git config --global user.email s.oziemczuk@gmail.com".
+Zad2. Stworzony zosta³ projekt ("projekt_testowy_1.txt"), który zosta³ dodany do repozytorium na github.
+Zad3. Stworzony zosta³ plik "README.md" oraz plik "projekt_testowy_1.gitignore", ten drugi za pomoc¹ strony "https://www.toptal.com/developers/gitignore".
+Zad4. Zainicjowa³em repozytorium GITa w moim projekcie za pomoc¹ komendy "git init D:\szkola\pjatk_studia\programowanie1". Puste zdalne repozytorium stworzy³em wczeœniej i powi¹za³em je z lokalnym przy u¿yciu komendy "git remote add origin https://github.com/stanoz/zadanie_domowe_1".
+Zad5. Za pomoc¹ komend "git add .", "git commit -m" oraz "git push" doda³em do repozytorium pliki "Readme.md" i "projekt_1.txt".
+Zad6. Zmodyfikowa³em plik "projekt_1.txt" oraz pliki "dodatek_1.txt" i "dodatek_2.txt" (dwa ostatnie zosta³y stworzonoe przy tym zadaniu), pliki zosta³y dodane do repozytorium z commitem "zmiana". Doda³em dwa commity "druga_zmiana" dla pliku "dodatek_1.txt" oraz "zmiana_3" dla pliku "dodatek_2.txt".U¿yte komendy: "git add .", "git commit -m", "git push".
+Zad7. U¿ywaj¹c komendy "git reset HEAD~2"usun¹³em dwa ostanie commity.
+
+------------------------------------
+Zadania wykonane na poprzednich zajêciach:
+
+Zad8. Zosta³em dodany oraz doda³em dwóch kolegów do projektu.
+Zad9. Przy u¿yciu komendy "git clone" sklonowa³em na komputer pliki z projektu.
