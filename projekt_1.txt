@@ -1,1 +1,2 @@
 Tworzê nowy projekt i go dodajê do repozytorium.
+Zmiana, by sprawdziæ czy komenda zadzia³a.
